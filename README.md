@@ -30,13 +30,13 @@
 + Способность учиться и адаптироваться к изменениям
 
 **Ссылки на проекты:**
-Курсовой проект по курсу "Ручное тестирование web приложений"
+**Курсовой проект по курсу "Ручное тестирование web приложений"**
 [Тестирование функционала интернет-магазина https://henderson.ru](https://github.com/TailakovaOlga/iqa-diplom)
 
-Командный проект по курсу Java для тестировщиков
+**Командный проект по курсу Java для тестировщиков**
 [Тестирование приложений для операций с банковскими счетами](https://github.com/TailakovaOlga/CreditAccount)
 
-Дипломный проект
+**Дипломный проект**
 [Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API банка](https://github.com/TailakovaOlga/Diplom-QA)
 <!--
 **TailakovaOlga/TailakovaOlga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
