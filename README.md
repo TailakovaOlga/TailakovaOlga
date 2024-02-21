@@ -40,6 +40,7 @@
 [Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API банка](https://github.com/TailakovaOlga/Diplom-QA)
 
 **Сертификаты о проходении курсов**
+
 ![e1c8c101d2d58967b8e3ab6c611715e3](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/3ac3c3e0-ea43-4f02-b9ef-50e6af44bdbc)
 ![d2c6f15c37675ccb0fb2a5ab20b61e88](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/db61b84c-0d7f-454f-b28d-426c479be01c)
 ![808b95b575937c91bb17643c4fd3363c](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/4999826b-2196-4eac-858f-2771a62f9018)
