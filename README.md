@@ -1,4 +1,26 @@
-### Hi there 👋
+### Здравствуйте!👋
+**Меня зовут Тайлакова Ольга.**
+**Я в 2024 году закончила курсы на платформе Netology по специальности QA инженер.**
+
+**Hard skills:**
++Java 
++IntelliJ IDE
++Git
++JUnit
++TestNG
++Gradle
++Maven
++Lombok
++Selenium
++Selenide
++JavaFaker
++Docker
++AppVeyor
++Allure Report
++SQL (MySQL, PostgreSQL)
++Postman
++DBeaver
+
 
 <!--
 **TailakovaOlga/TailakovaOlga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
