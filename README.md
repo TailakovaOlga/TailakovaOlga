@@ -1,7 +1,7 @@
 ### ПОРТФОЛИО
 
-**Здравствуйте!**
-**Меня зовут Тайлакова Ольга.**
+**Здравствуйте!**\
+**Меня зовут Тайлакова Ольга.**\
 **Я в 2024 году закончила курсы на платформе Netology по специальности QA инженер.**
 
 **Hard skills:**
@@ -49,6 +49,7 @@
 ![6028e34e8fbdb4412a02757451d182ce](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/bd84d7b7-fad5-4e6e-8a16-87cbe354628f)
 
 **Контакты:**
+
 E-mail: taylakova_olga@mail.ru
 Telegram: https://t.me/TailakovaOlga
 WhatsApp: +7 953 792 42 54
