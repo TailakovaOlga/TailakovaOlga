@@ -38,7 +38,7 @@
 <!--
 **TailakovaOlga/TailakovaOlga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Свидетельства о проходении курсов**
+**Сертификаты о проходении курсов**
 
 ![e1c8c101d2d58967b8e3ab6c611715e3](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/3ac3c3e0-ea43-4f02-b9ef-50e6af44bdbc)
 
