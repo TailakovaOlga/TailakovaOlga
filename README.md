@@ -50,8 +50,8 @@
 
 **Контакты:**
 
-E-mail: taylakova_olga@mail.ru
-Telegram: https://t.me/TailakovaOlga
+E-mail: taylakova_olga@mail.ru\
+Telegram: https://t.me/TailakovaOlga\
 WhatsApp: +7 953 792 42 54
 
 <!--
