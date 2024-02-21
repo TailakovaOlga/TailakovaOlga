@@ -38,22 +38,6 @@
 <!--
 **TailakovaOlga/TailakovaOlga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Контакты:**
-E-mail: taylakova_olga@mail.ru
-Telegram: https://t.me/TailakovaOlga
-WhatsApp: +7 953 792 42 54
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 **Свидетельства о проходении курсов**
 
 ![e1c8c101d2d58967b8e3ab6c611715e3](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/3ac3c3e0-ea43-4f02-b9ef-50e6af44bdbc)
@@ -67,3 +51,9 @@ Here are some ideas to get you started:
 ![1a13cdf8b4cce849d28854574555e721](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/9356f619-b6bc-42d6-a96d-e81a6308ab72)
 
 ![6028e34e8fbdb4412a02757451d182ce](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/bd84d7b7-fad5-4e6e-8a16-87cbe354628f)
+
+**Контакты:**
+E-mail: taylakova_olga@mail.ru
+Telegram: https://t.me/TailakovaOlga
+WhatsApp: +7 953 792 42 54
+
