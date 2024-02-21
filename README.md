@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #Свидетельства о проходении курсов
+
 ![e1c8c101d2d58967b8e3ab6c611715e3](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/3ac3c3e0-ea43-4f02-b9ef-50e6af44bdbc)
 
 ![d2c6f15c37675ccb0fb2a5ab20b61e88](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/db61b84c-0d7f-454f-b28d-426c479be01c)
