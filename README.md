@@ -3,27 +3,44 @@
 **Я в 2024 году закончила курсы на платформе Netology по специальности QA инженер.**
 
 **Hard skills:**
-+Java 
-+IntelliJ IDE
-+Git
-+JUnit
-+TestNG
-+Gradle
-+Maven
-+Lombok
-+Selenium
-+Selenide
-+JavaFaker
-+Docker
-+AppVeyor
-+Allure Report
-+SQL (MySQL, PostgreSQL)
-+Postman
-+DBeaver
 
++ Java 
++ IntelliJ IDE
++ Git
++ JUnit
++ TestNG
++ Gradle
++ Maven
++ Lombok
++ Selenium
++ Selenide
++ JavaFaker
++ Docker
++ AppVeyor
++ Allure Report
++ SQL (MySQL, PostgreSQL)
++ Postman
++ DBeaver
 
+**Soft skills:**
++ Коммуникабельность;
++ Критическое мышление;
++ Умение работать в команде;
++ Способность учиться и адаптироваться к изменениям
+
+**Ссылки на проекты:**
+Проект по курсу Java для тестировщиков
+[Тестирование приложений для операций с банковскими счетами](https://github.com/TailakovaOlga/CreditAccount)
+
+Дипломный проект
+[Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API банка](https://github.com/TailakovaOlga/Diplom-QA)
 <!--
 **TailakovaOlga/TailakovaOlga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Контакты:**
+E-mail: taylakova_olga@mail.ru
+Telegram: https://t.me/TailakovaOlga
+WhatsApp: +7 953 792 42 54
 
 Here are some ideas to get you started:
 
