@@ -84,7 +84,7 @@ Intellij IDEA, Java, Gradle, JUNIT, Docker, DBeaver, терминал Linux, MyS
 
 **Сертификаты о прохождении курсов**
 
-![e1c8c101d2d58967b8e3ab6c611715e3](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/3ac3c3e0-ea43-4f02-b9ef-50e6af44bdbc)
+![e1c8c101d2d58967b8e3ab6c611715e3](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/3ac3c3e0-ea43-4f02-b9ef-50e6af44bdbc)   ![d2c6f15c37675ccb0fb2a5ab20b61e88](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/db61b84c-0d7f-454f-b28d-426c479be01c)
 ![d2c6f15c37675ccb0fb2a5ab20b61e88](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/db61b84c-0d7f-454f-b28d-426c479be01c)
 ![808b95b575937c91bb17643c4fd3363c](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/4999826b-2196-4eac-858f-2771a62f9018)
 ![fe8972e0b95ee923a4a5084fa084769b](https://github.com/TailakovaOlga/TailakovaOlga/assets/142083950/83f21d61-e3e9-47f5-9f28-b1ec1ea3b6bb)
