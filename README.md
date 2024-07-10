@@ -23,7 +23,7 @@
 + Docker
 + AppVeyor
 + Allure Report
-+ SQL (MySQL, PostgreSQL)
++ SQL 
 + Postman
 + DBeaver
 
